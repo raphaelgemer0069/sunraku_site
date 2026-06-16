@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: darkred;
+    height: 100%;
+}
+
+.capa {
+    width:100%;
+    object-fit: cover;
+     height: 400px; /* mudar */ 
+
+}
+.infotrHeadr{
+    padding-top: 15px;
+    background-color: black;
+}
+.titulo {
+text-align: center;
+color: aliceblue;
+}
+nav a{
+text-decoration:none;
+color: aliceblue;
+padding: 30px;
+font-size: 20px;
+font-weight: bold;
+}
